@@ -1,0 +1,3 @@
+resources/ApplicationConfig.class
+resources/LocalizacaoResource.class
+com/citybus/entidades/Localizacao.class
